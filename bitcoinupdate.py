@@ -28,7 +28,8 @@ data = {
     "function": "CURRENCY_EXCHANGE_RATE",
     "from_currency": "BTC",
     "to_currency": "EUR",
-    "apikey": "WKAKPFE43XUCWQY6",
+    "apikey": alphavantageKey
+    ,
 }
 
 #making the desktop messages
